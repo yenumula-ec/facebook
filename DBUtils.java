@@ -1,1 +1,2 @@
-echo "Hello Guys Git is very imp!!"
+Hello Guys Git is very imp!!
+Hello im updating this file
